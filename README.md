@@ -29,4 +29,9 @@ O pedido podem ser cancelados
 <sup> Pagamento – Pode ter cadastrado mais de uma forma de pagamento;</sup>
 <sup> Entrega – Possui status e código de rastreio;</sup>
 
+<img
+  class="Venda de Produto"
+  src="Produto.png"
+  alt="" />
+
 <a href="Produto.png">Venda de Produto</a>
