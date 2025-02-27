@@ -25,8 +25,8 @@ O pedido podem ser cancelados
 
 # Desenvolver
 
-<sup> Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;</sup>
-<sup> Pagamento – Pode ter cadastrado mais de uma forma de pagamento;</sup>
+<sup> Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;</sup><br>
+<sup> Pagamento – Pode ter cadastrado mais de uma forma de pagamento;</sup><br>
 <sup> Entrega – Possui status e código de rastreio;</sup>
 
 <img
