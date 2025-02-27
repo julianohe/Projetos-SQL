@@ -1,5 +1,3 @@
-FORMA DE PAGAMENTO/ ENTREGA atributo ou entidade ??
-
 ## Produto 
 
 Os produtos são vendidos por uma única plataforma online.
@@ -31,3 +29,4 @@ O pedido podem ser cancelados
 <sup> Pagamento – Pode ter cadastrado mais de uma forma de pagamento;</sup>
 <sup> Entrega – Possui status e código de rastreio;</sup>
 
+<a href="Produto.png">Venda de Produto</a>
