@@ -1,5 +1,5 @@
 
 
 
-< img class="" src="autext.png"
+< img class="audio em texto" src="autext.png"
   alt="" />
